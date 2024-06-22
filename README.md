@@ -1,6 +1,6 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=330 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@lunarifish&layout=compact" />
+<img height=340 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@lunarifish&layout=compact" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
