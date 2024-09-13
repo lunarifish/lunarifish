@@ -9,4 +9,4 @@
 
 -------
 
-> note that this guy has wasted [![wakatime](https://wakatime.com/badge/user/018e7e52-964b-4974-9d57-6830481dce03.svg/)](https://wakatime.com/@018e7e52-964b-4974-9d57-6830481dce03) this year🫠
+> wait what [![wakatime](https://wakatime.com/badge/user/018e7e52-964b-4974-9d57-6830481dce03.svg/)](https://wakatime.com/@018e7e52-964b-4974-9d57-6830481dce03)
