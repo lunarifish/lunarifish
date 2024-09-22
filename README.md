@@ -1,4 +1,4 @@
-<img height=300 src="assets/p1.png"/> > <a href="portal.lunariio.work">portal.lunariio.work</a>
+<img width=50% src="assets/p1.png"/> > <a href="portal.lunariio.work">portal.lunariio.work</a>
 
 ---
 
